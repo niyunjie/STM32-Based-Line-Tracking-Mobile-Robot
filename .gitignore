@@ -1,0 +1,28 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+
+# Keil user files
+Tracking_Car/MDK-ARM/*.uvguix.*
+Tracking_Car/MDK-ARM/*.uvoptx
+Tracking_Car/MDK-ARM/*.bak
+Tracking_Car/MDK-ARM/.vscode/
+*.log
+
+# Build outputs
+Tracking_Car/MDK-ARM/Tracking_Car/
+Tracking_Car/MDK-ARM/Listing/
+Tracking_Car/MDK-ARM/Objects/
+
+# Generic binary / temp files
+*.axf
+*.crf
+*.d
+*.dep
+*.hex
+*.htm
+*.lnp
+*.lst
+*.map
+*.o
+*.tmp
